@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/free-icon-china-323363.png</file>
+        <file>img/free-icon-european-union-197615.png</file>
+        <file>img/free-icon-russia-4628645.png</file>
+        <file>img/free-icon-united-states-of-america-323310.png</file>
+        <file>img/arrows.png</file>
+        <file>img/refresh.svg</file>
+        <file>img/close.svg</file>
+    </qresource>
+</RCC>
